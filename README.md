@@ -1,4 +1,4 @@
-[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Md Abdul Rasheed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Md Abdul Rasheed
 =========================================================================================================================================
 
 Passionate Coder!
@@ -17,4 +17,3 @@ I started my coding journey with C which helped me to know about how computer wo
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/rasheed4806" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-](https://www.instagram.com/codewithrasheed/?hl=en)
